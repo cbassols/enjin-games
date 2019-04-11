@@ -1,0 +1,32 @@
+body {
+  background-color: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 100px;
+}
+
+.navbar {
+  background-color: #6268CE !important;
+}
+
+.card {
+  border: none;
+}
+
+.card-footer {
+  background-color: #6268CE !important;
+  text-align: center;
+  padding: .75rem
+}
+
+.card-footer > a {
+  color: #FFFFFF;
+  font-size: 20px;
+}
+
+.game-link {
+  margin-right: 12px;
+}
+
+.game-link:last-child {
+  margin-right: 0;
+}
