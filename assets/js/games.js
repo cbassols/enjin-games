@@ -3,7 +3,7 @@
 
   {
     name: "",
-    img: "assets/img/games/xxxxx/xxxxx.png",
+    img: "assets/img/games/xxxxx/xxxxx.jpg",
     website: "",
     steam: "",
     twitter: "",
@@ -20,7 +20,7 @@
 var games = [
   {
     name: "War of Crypto",
-    img: "assets/img/games/WarOfCrypto/WarOfCrypto.png",
+    img: "assets/img/games/WarOfCrypto/WarOfCrypto.jpg",
     website: "https://www.warofcrypto.io",
     twitter: "https://twitter.com/WarOfCrypto",
     telegram: "https://t.me/warofcrypto",
@@ -32,7 +32,7 @@ var games = [
   },
   {
     name: "9Lives Arena",
-    img: "assets/img/games/9Lives/9Lives.png",
+    img: "assets/img/games/9Lives/9Lives.jpg",
     website: "https://www.9livesarena.com/",
     twitter: "https://twitter.com/9livesarena",
     facebook: "https://www.facebook.com/9Livesarena/",
@@ -44,7 +44,7 @@ var games = [
   },
   {
     name: "CryptoFights",
-    img: "assets/img/games/CryptoFights/CryptoFights.png",
+    img: "assets/img/games/CryptoFights/CryptoFights.jpg",
     website: "https://cryptofights.io/",
     twitter: "https://twitter.com/cryptofights",
     facebook: "https://www.facebook.com/cryptofights/",
@@ -55,7 +55,7 @@ var games = [
   },
   {
     name: "Age of Rust",
-    img: "assets/img/games/AgeOfRust/AgeOfRust.png",
+    img: "assets/img/games/AgeOfRust/AgeOfRust.jpg",
     website: "https://www.ageofrust.games/",
     twitter: "https://twitter.com/SpacePirate_io",
     telegram: "https://t.me/AgeOfRust",
@@ -66,7 +66,7 @@ var games = [
   },
   {
     name: "Forest Knight",
-    img: "assets/img/games/ForestKnight/ForestKnight.png",
+    img: "assets/img/games/ForestKnight/ForestKnight.jpg",
     website: "https://www.forestknight.io/",
     twitter: "https://www.twitter.com/games_chrono",
     facebook: "https://www.facebook.com/chronogamesofficial/",
@@ -78,7 +78,7 @@ var games = [
   },
   {
     name: "Bitcoin Hodler",
-    img: "assets/img/games/BitcoinHodler/BitcoinHodler.png",
+    img: "assets/img/games/BitcoinHodler/BitcoinHodler.jpg",
     website: "https://www.bitcoin-hodler.info/",
     twitter: "https://twitter.com/BitcoinHodlers",
     telegram: "http://t.me/Bitcoin_Hodler",
@@ -87,7 +87,7 @@ var games = [
   },
   {
     name: "Cats in Mechs",
-    img: "assets/img/games/CatsInMechs/CatsInMechs.png",
+    img: "assets/img/games/CatsInMechs/CatsInMechs.jpg",
     website: "https://www.cats-in-mechs.com/",
     twitter: "https://twitter.com/catsinmechs",
     facebook: "http://www.facebook.com/catsinmechs",
@@ -96,7 +96,7 @@ var games = [
   },
   {
     name: "ReBounce",
-    img: "assets/img/games/ReBounce/ReBounce.png",
+    img: "assets/img/games/ReBounce/ReBounce.jpg",
     twitter: "https://twitter.com/titanflight",
     facebook: "https://www.facebook.com/titanflightstudios/",
     telegram: "https://t.me/TitanFlight",
@@ -105,7 +105,7 @@ var games = [
   },
   {
     name: "HEX World",
-    img: "assets/img/games/HEXWorld/HEXWorld.png",
+    img: "assets/img/games/HEXWorld/HEXWorld.jpg",
     website: "https://hex.world/",
     twitter: "https://twitter.com/XworldHe",
     discord: "https://discordapp.com/invite/uhprSN3",
@@ -113,7 +113,7 @@ var games = [
   },
   {
     name: "AlterVerse",
-    img: "assets/img/games/Alterverse/Alterverse.png",
+    img: "assets/img/games/Alterverse/Alterverse.jpg",
     website: "https://www.alterverse.com/",
     twitter: "https://twitter.com/AlterVerseGame",
     telegram: "https://t.me/alterverse",
@@ -123,7 +123,7 @@ var games = [
   },
   {
     name: "Dyverse",
-    img: "assets/img/games/Dyverse/Dyverse.png",
+    img: "assets/img/games/Dyverse/Dyverse.jpg",
     website: "https://dyver.se/",
     twitter: "https://twitter.com/DyverseOfficial",
     facebook: "https://www.facebook.com/DyverseOfficial",
@@ -134,7 +134,7 @@ var games = [
   },
   {
     name: "MagicEspejo ",
-    img: "assets/img/games/MagicEspejo/MagicEspejo.png",
+    img: "assets/img/games/MagicEspejo/MagicEspejo.jpg",
     website: "https://magicespejo.com/",
     twitter: "https://twitter.com/beanyfriends",
     facebook: "http://fb.com/magicespejo",
@@ -143,7 +143,7 @@ var games = [
   },
   {
     name: "Containment Corps",
-    img: "assets/img/games/ContainmentCorps/ContainmentCorps.png",
+    img: "assets/img/games/ContainmentCorps/ContainmentCorps.jpg",
     website: "https://containmentcorps.com/",
     steam: "https://store.steampowered.com/app/693830/Containment_Corps/",
     twitter: "https://twitter.com/containmentcorp",
@@ -152,7 +152,7 @@ var games = [
   },
   {
     name: "The Six Dragons",
-    img: "assets/img/games/TheSixDragons/TheSixDragons.png",
+    img: "assets/img/games/TheSixDragons/TheSixDragons.jpg",
     website: "http://www.thesixdragons.com/",
     steam: "https://store.steampowered.com/app/749950/The_Six_Dragons/",
     twitter: "https://twitter.com/thesixdragons",
@@ -162,7 +162,7 @@ var games = [
   },
   {
     name: "Shield of Shalwend",
-    img: "assets/img/games/ShieldOfShalwend/ShieldOfShalwend.png",
+    img: "assets/img/games/ShieldOfShalwend/ShieldOfShalwend.jpg",
     website: "https://enigma-games.com",
     steam: "",
     twitter: "https://twitter.com/enigmanews",
@@ -173,7 +173,7 @@ var games = [
   },
   {
     name: "Forgotten Artifacts",
-    img: "assets/img/games/ForgottenArtifacts/ForgottenArtifacts.png",
+    img: "assets/img/games/ForgottenArtifacts/ForgottenArtifacts.jpg",
     website: "https://forgottenartifacts.io/",
     twitter: "https://twitter.com/ForgottenArtif",
     telegram: "https://t.me/forgottenartifacts",
@@ -181,7 +181,7 @@ var games = [
   },
   {
     name: "Kingdom Karnage",
-    img: "assets/img/games/KingdomKarnage/KingdomKarnage.png",
+    img: "assets/img/games/KingdomKarnage/KingdomKarnage.jpg",
     website: "https://kepithorstudios.com/",
     twitter: "https://twitter.com/KepithorStudios",
     facebook: "https://www.facebook.com/Kepithor-Studios-499761503876226",
@@ -189,7 +189,7 @@ var games = [
   },
   {
     name: "A Turret's Life",
-    img: "assets/img/games/ATurretsLife/ATurretsLife.png",
+    img: "assets/img/games/ATurretsLife/ATurretsLife.jpg",
     website: "http://www.aturretslife.com/",
     twitter: "https://twitter.com/KristetraS",
     facebook: "https://www.facebook.com/Kristetra-Studios-766598053687784/",
@@ -199,7 +199,7 @@ var games = [
   },
   {
     name: "Nestables",
-    img: "assets/img/games/Nestables/Nestables.png",
+    img: "assets/img/games/Nestables/Nestables.jpg",
     website: "https://twitter.com/nestablesgame",
     twitter: "https://twitter.com/nestablesgame",
     telegram: "https://t.me/nestablesoffical",
